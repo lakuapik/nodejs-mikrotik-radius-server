@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-mikrotik-radius-server",
+  "version": "0.0.1",
+  "description": "A simple implementation of nodejs as radius server for mikrotik",
+  "main": "index.js",
+  "repository": "https://github.com/lakuapik/nodejs-mikrotik-radius-server",
+  "author": "David Adi Nugroho",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "radius": "^1.1.4"
+  }
+}
